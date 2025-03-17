@@ -1,1 +1,1 @@
-# UberRide Insights: Predicting Demand with Machine Learning
+# UberRide: Unlocking Ride Patterns & Predictions
