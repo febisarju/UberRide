@@ -26,6 +26,23 @@ This project analyzes Uber trip data from **April 2014 to June 2015** to predict
 - **Uber Trips (April - September 2014)** (`uber-raw-data-aprsep-14.csv`)
 - **Uber Trips (January - June 2015)** (`uber-raw-data-janjune-15.csv`)
 
+## Workflow:
+
+- **Data Collection**     
+  Gather raw Uber trip data. 
+- **Data Preprocessing**      
+  Handle missing values, feature engineering.  
+- **Exploratory Data Analysis (EDA)**     
+  Trends, seasonality, visualization.
+- **Feature Engineering**     
+  Add weather, holidays, rush hour effects.  
+- **Model Building**    
+  Train XGBoost & GBRT models. 
+- **Evaluation**    
+  Compare models using MAPE, RMSE, R² metrics. 
+- **Deployment**    
+  Create a Power BI Dashboard.
+
 ## Results & Insights: 
 
 - The **demand for Uber rides fluctuates** with peak hours during rush times (morning and evening).
