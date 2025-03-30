@@ -5,7 +5,7 @@ This project analyzes Uber trip data from **April 2014 to June 2015** to predict
 ## Features:
 
 - **Large-Scale Data Handling**: Optimized memory usage to efficiently process large Uber datasets.
-- **Exploratory Data Analysis (EDA)**: Trends, demand fluctuations and seasonal patterns.
+- **Exploratory Data Analysis (EDA)**: Trends, demand fluctuations and seasonal patterns.  
 - **Feature Engineering**: Created time-based features (hour, day, month, holidays, rush hours, etc.).
 - **Time-Series Decomposition**: Trend, seasonality and residual analysis.
 - **Predictive Modeling**:
