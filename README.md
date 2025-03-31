@@ -51,7 +51,7 @@ This project analyzes Uber trip data from **April 2014 to June 2015** to predict
 - **MAPE Score:** _Low error rates suggest strong predictive performance._
 
 ## Future Enhancements: 
-- **Add real-time Uber trip data** for live forecasting.
+- **Add real-time Uber trip data** for live forecasting.        
 - **Integrate weather data** to analyze its effect on ride demand.
 - **Deploy the model using Streamlit** for interactive visualization.
 
