@@ -1,7 +1,7 @@
 # UberRide: Unlocking Ride Patterns & Predictions
 
 This project analyzes Uber trip data from **April 2014 to June 2015** to predict ride demand trends. It involves **data preprocessing, exploratory data analysis (EDA), feature engineering, time-series modeling** and **ensemble learning models (XGBoost & GBTR)** for prediction.
-
+  
 ## Features:
 
 - **Large-Scale Data Handling**: Optimized memory usage to efficiently process large Uber datasets.
